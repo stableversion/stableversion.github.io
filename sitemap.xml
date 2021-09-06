@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://aira.vision/</loc>
+  </url><url>
+    <loc>https://aira.vision/archives/</loc>
+  </url><url>
+    <loc>https://aira.vision/categories/</loc>
+  </url><url>
+    <loc>https://aira.vision/search/</loc>
+  </url><url>
+    <loc>https://aira.vision/series/</loc>
+  </url><url>
+    <loc>https://aira.vision/tags/</loc>
+  </url>
+</urlset>
