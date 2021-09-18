@@ -2,7 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aira.vision/posts/midnight-solitude/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aira.vision/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aira.vision/tags/memories/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aira.vision/posts/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aira.vision/tags/</loc>
+    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aira.vision/archives/</loc>
   </url><url>
@@ -11,7 +24,5 @@
     <loc>https://aira.vision/search/</loc>
   </url><url>
     <loc>https://aira.vision/series/</loc>
-  </url><url>
-    <loc>https://aira.vision/tags/</loc>
   </url>
 </urlset>
