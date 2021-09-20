@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Aira</title>
-    <link>https://aira.vision/</link>
-    <description>Recent content on Aira</description>
+    <title>Technical on Aira</title>
+    <link>https://aira.vision/categories/technical/</link>
+    <description>Recent content in Technical on Aira</description>
     <image>
       <url>https://aira.vision/papermod-cover.png</url>
       <link>https://aira.vision/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aira.vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://aira.vision/categories/technical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dont Delete, Compress!</title>
       <link>https://aira.vision/posts/dont-delete-compress/</link>
@@ -18,17 +18,6 @@
       <guid>https://aira.vision/posts/dont-delete-compress/</guid>
       <description>Instead of deleteing, try compressing files you need, but dont need.</description>
     </item>
-    
-    <item>
-      <title>Midnight Solitude</title>
-      <link>https://aira.vision/posts/midnight-solitude/</link>
-      <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://aira.vision/posts/midnight-solitude/</guid>
-      <description>To Walk On Empty Midnights Streets</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
